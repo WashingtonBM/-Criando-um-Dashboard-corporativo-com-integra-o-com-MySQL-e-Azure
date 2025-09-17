@@ -11,15 +11,7 @@ https://app.powerbi.com/groups/me/reports/e8b2a0b1-0c4a-4ed5-a488-a66276521238/9
 Disponibizou-se o projeto nos formatos: Power BI Descktop, app.powerbi.com, Foxit PDF Reader e Power Point;
 
 Implantou-se uma instãncia do MySQL na Azure:
-MySqlFlexibleServer_06d37093bfc74fa4ac02b6dac0266d87 | Visão Geral:
-https://portal.azure.com/?subscriptionId=a47d8027-0489-4ac4-9abc-942144a0f600
-#view/HubsExtension/DeploymentDetailsBlade/~/overview/id/%2Fsubscriptions%
-2Fa47d8027-0489-4ac4-9abc-942144a0f600%2FresourceGroups%2Fgr.base.de.dados%
-2Fproviders%2FMicrosoft.Resources%
-2Fdeployments%2FMySqlFlexibleServer_
-06d37093bfc74fa4ac02b6dac0266d87/packageId/Microsoft.MySQLServer/primaryResourceId/%2Fsubscriptions%2Fa47d8027-0489-4ac4-9abc-942144a0f600%2FresourceGroups%2Fgr.base.de.dados%2Fproviders%2FMicrosoft.DBforMySQL%2FflexibleServers%2Fdesafio-projeto-dio/provisioningHash/MySqlFlexibleServer/createBlade~/%7B%22extension%22%3A%22Microsoft_Azure_OSSDatabases%22%2C%22telemetryId%22%3A%
-223eaed466-7745-4ee0-a8fa-de813b850bbf%22%7D
-
+MySqlFlexibleServer_06d37093bfc74fa4ac02b6dac0266d87 | Visão Geral;
 
 Relatório e Dashbords entregues,
 Projeto em andamento.
