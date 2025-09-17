@@ -1,0 +1,16 @@
+# -Criando-um-Dashboard-corporativo-com-integra-o-com-MySQL-e-Azure
+Projeto Final da Formação Power BI Analicts na Dio
+Bootcamp Randstad - Análise de Dados
+
+Utilizou-se o script sql para criação de banco de dados e para implantação dos dados;
+Utilizou-se IA para auxiliar na execução do banco de dados, utilizou-se excel;
+Executou-se os processos de ELT, análise, modelagem e publicação;
+
+Publicou-se o relatório  no app.powerbi.com:
+https://app.powerbi.com/groups/me/reports/e8b2a0b1-0c4a-4ed5-a488-a66276521238/95140710c658c0da0b59?experience=power-bi
+Disponibizou-se o projeto nos formatos: Power BI Descktop, app.powerbi.com, Foxit PDF Reader e Power Point;
+Implantou-se uma instãncia do MySQL na Azure:
+MySqlFlexibleServer_06d37093bfc74fa4ac02b6dac0266d87 | Visão Geral;
+
+Relatório e Dashbords entregues,
+Projeto em andamento.
